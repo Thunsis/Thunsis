@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Thunsis
 - 👀 I’m interested in big data
-- 🌱 I’m currently learning scala language
 - 📫 How to reach me hexuanr@126.com
 
 <!---
